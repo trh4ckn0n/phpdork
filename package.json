@@ -1,0 +1,10 @@
+{
+  "name": "php-glitch",
+  "version": "1.0.0",
+  "description": "PHP server on Glitch",
+  "main": "start.sh",
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "dependencies": {}
+}
